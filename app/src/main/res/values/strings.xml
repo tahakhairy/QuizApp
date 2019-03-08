@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="button_text">Start Quiz</string>
+    <string name="highscore_text">High score: 0</string>
+    <string name="score_text">Score: 0</string>
+    <string name="question_text">Question: </string>
+    <string name="countdown_text">00:30</string>
+    <string name="confirm_button">Confirm</string>
+    <string name="first_answer">Answer 1 is correct</string>
+    <string name="second_answer">Answer 2 is correct</string>
+    <string name="third_answer">Answer 3 is correct</string>
+    <string name="next_button">Next Question</string>
+    <string name="finish_button">Finish</string>
+    <string name="difficulty_text_view">Difficulty: </string>
+    <string name="category_text_view">Category: </string>
+
+</resources>
